@@ -1,0 +1,2 @@
+Prep work to set up machine and IDE.
+Current skills test:  got a 76/100
