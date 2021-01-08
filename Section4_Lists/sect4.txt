@@ -1,0 +1,2 @@
+All exercises were done in a Python shell.
+
