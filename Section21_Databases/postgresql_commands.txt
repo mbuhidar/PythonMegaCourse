@@ -1,0 +1,31 @@
+
+Fake credentials:
+
+user: postgres
+pw: postgres123
+port: 5432
+
+
+
+Postgres CL interaction:
+
+sudo -i -u postgress
+
+psql
+
+\q to exit
+exit to logout
+
+Create new user:
+CREATE USER user WITH PASSWORD 'password';
+CREATE ROLE
+
+Change user password:
+ALTER USER postgres WITH PASSWORD 'postgres123';
+ALTER ROLE
+
+Create database:
+CREATE DATABASE database1;
+CREATE DATABASE
+
+pgadmin3 to launch pgadmin III utility window
